@@ -10,3 +10,5 @@
 [**Лаб: Повторения с цикли – While-цикъл**] (https://github.com/mariaIvanova-vn/Programming-Basics-JS/tree/main/While%20Loop%20-%20Lab)
 
 [**Упражнениe: Повторения с цикли – While-цикъл**] (https://github.com/mariaIvanova-vn/Programming-Basics-JS/tree/main/While%20Loop%20-%20Exercise)
+
+[**Лаб: Nested Loops - Lab**] (https://github.com/mariaIvanova-vn/Programming-Basics-JS/tree/main/Nested%20Loops%20-%20Lab)
